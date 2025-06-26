@@ -31,8 +31,8 @@ src/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/king-trif-platform.git
-   cd king-trif-platform
+ clone https://github.com/DinTri/TailwindInASimpleWebApp.git
+   cd TailwindInASimpleWebApp
 
 2. Install dependencies (if using Lucide via npm):
 npm install lucide
