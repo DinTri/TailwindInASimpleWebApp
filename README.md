@@ -31,7 +31,7 @@ src/
 
 1. Clone the repo:
    ```bash
- clone https://github.com/DinTri/TailwindInASimpleWebApp.git
+   clone https://github.com/DinTri/TailwindInASimpleWebApp.git 
    cd TailwindInASimpleWebApp
 
 2. Install dependencies (if using Lucide via npm):
