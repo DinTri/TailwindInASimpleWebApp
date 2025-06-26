@@ -1,0 +1,22 @@
+{
+  "name": "Tailwind In A Simple WebApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/css/main.css -o ./src/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "Sir Trifon Dinev",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "lucide": "^0.523.0",
+    "tailwindcss": "^4.1.10"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.0",
+    "prettier-plugin-tailwindcss": "^0.6.13"
+  }
+}

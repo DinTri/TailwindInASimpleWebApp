@@ -1,0 +1,17 @@
+{
+  "name": "responsive-card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/css/main.css -o ./src/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "Sir Trifon Dinev",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.10",
+    "tailwindcss": "^4.1.10"
+  }
+}
